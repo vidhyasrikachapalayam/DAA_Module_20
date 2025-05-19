@@ -39,9 +39,9 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 ## Program:
 Program to implement N-Queen problem using backtracking.
 
-Developed by: Dhivyapriya R
+Developed by: Vidhyasri k
 
-Register Number: 212222230032
+Register Number: 212222230170
 
 ```
 global N
